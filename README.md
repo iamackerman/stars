@@ -1,0 +1,2 @@
+# stars
+stars tea testnet
